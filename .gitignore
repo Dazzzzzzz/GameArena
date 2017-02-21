@@ -1,3 +1,4 @@
 doc/
+*.java~
 *.class
 *.swp
